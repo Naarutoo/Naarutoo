@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Saurabhsharma708@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ip9QY8LEiR1h877jBdyvP_mv92lE_N0Z/edit?usp=sharing&ouid=112355953829204401483&rtpof=true&sd=true](https://docs.google.com/document/d/1ip9QY8LEiR1h877jBdyvP_mv92lE_N0Z/edit?usp=sharing&ouid=112355953829204401483&rtpof=true&sd=true)
+- 📄 Know about my experiences  https://drive.google.com/drive/folders/1xvvoHKwd9xsQKpt3zwAfwS1bNdjr1Dv-?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
