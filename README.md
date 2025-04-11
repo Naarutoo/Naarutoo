@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Sharma</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naarutoo&label=Profile%20views&color=0e75b6&style=flat" alt="naarutoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naarutoo&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh" /> </p>
 
 - 🔭 I’m currently working on **Airbnb Clone App**
 
